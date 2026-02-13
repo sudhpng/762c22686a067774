@@ -1,0 +1,5 @@
+Player URL:
+https://sudhpng.github.io/player/?list=https://raw.githubusercontent.com/sudhpng/762c22686a067774/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/sudhpng/762c22686a067774/refs/heads/master/github_master.m3u8
